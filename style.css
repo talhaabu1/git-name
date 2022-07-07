@@ -13,7 +13,7 @@
 .text{
     text-align: center;
     padding-top: 10%;
-    font-size: 30px;
+    font-size: 70px;
     color: white;
     font-family: 'Oswald', sans-serif;
     font-family: 'Secular One', sans-serif;
@@ -22,8 +22,8 @@
 }
 .siz{
     text-align: center;
-    font-size: 10px;
-    color: white;
+    font-size: 20px;
+    color: rgb(255, 255, 255);
     font-family: 'Oswald', sans-serif;
     font-family: 'Secular One', sans-serif;
     
@@ -33,11 +33,11 @@
     text-decoration: none;
     color: rgb(255, 255, 255);
     border-radius:50px;
-    padding: 6px 15px;
+    padding: 7px 15px;
     border: 2px solid rgb(0, 0, 0);
     background-color: black;
-    
-    margin-left: 42%;
+    margin-left: 43%;
+    font-size: 30px;
     
 }
 body, html{
@@ -51,13 +51,15 @@ body, html{
 .you{
     margin: 0px;
     font-family: cursive;
+    font-size: 50px;
 }
 .taka{
     text-align: center;
-    font-size: 10px;
+    font-size: 20px;
     color: rgb(15, 15, 15);
     font-family: 'Oswald', sans-serif;
     font-family: 'Secular One', sans-serif;
+    margin-bottom: 60px;
     
 }
 .display{
@@ -66,9 +68,10 @@ body, html{
 #margin{
     margin-left: 15%;
     border: 2px solid rgb(189, 174, 174);
-    padding: 2px 6px;
+    padding: 2px 10px;
     color: rgb(14, 15, 15);
     background-color: rgb(179, 187, 194);
+    font-size: 30px;
     
 }
 #home{
@@ -77,6 +80,7 @@ body, html{
     margin-left: 30px;
     color: rgb(14, 15, 15);
     background-color: rgb(179, 187, 194);
+    font-size: 30px;
 }
 #non{
     border: 2px solid rgb(182, 170, 170);
@@ -84,6 +88,7 @@ body, html{
     margin-left: 30px;
     color: rgb(14, 15, 15);
     background-color: rgb(179, 187, 194);
+    font-size: 30px;
 }
 #toy{
     border: 2px solid rgb(187, 179, 179);
@@ -91,6 +96,7 @@ body, html{
     margin-left: 30px;
     color: rgb(14, 15, 15);
     background-color: rgb(179, 187, 194);
+    font-size: 30px;
 }
 #mom{
     border: 2px solid rgb(177, 162, 162);
@@ -98,14 +104,18 @@ body, html{
     margin-left: 30px;
     color: rgb(14, 15, 15);
     background-color: rgb(179, 187, 194);
+    font-size: 30px;
 }
 .joy{
     margin-top: 5%;
-    margin-left: 38%;
-    border-top: none;
+    margin-left: 30%;
+    border-top: 70px;
     border-left: none;
     border-right: none;
+    border-top: none;
     background: transparent;
+    padding-left: 70px;
+    font-size: 30px;
 }
 .hot{
     margin-left: 45%;
@@ -115,50 +125,54 @@ body, html{
     background-color: black;
     color: white;
     border-radius: 8px;
+    font-size: 30px;
+    margin-bottom: 30px;
 }
 .boss{
     
     margin-top: 35px;
-    margin-left: 2%;
-    padding-left: 20px;
-    padding-right: 20px;
-    padding-top: 5px;
+    margin-left:3%;
+    padding-left: 60px;
+    padding-right: 60px;
+    padding-top: 2%;
     background-color: rgb(148, 96, 153);
+    padding-bottom: 40px;
     
 }
 .just{
     text-align: justify;
-    font-size: 10px;
+    font-size: 20px;
         
 }
 .img{
-    width: 40px;
+    width: 80px;
 }
 .git{
    
     margin-top: 35px;
     margin-left: 2%;
-    padding-left: 20px;
-    padding-right: 20px;
-    padding-top: 5px;
-    background-color: rgb(97, 163, 80);
+    padding-left: 60px;
+    padding-right: 60px;
+    padding-top: 2%;
+    background-color: rgb(111, 165, 162);
 }
 .may{
    
     margin-top: 35px;
     margin-left: 2%;
-    padding-left: 20px;
-    padding-right: 20px;
-    padding-top: 5px;
-    background-color: rgb(93, 102, 179);
+    padding-left: 60px;
+    padding-right: 60px;
+    padding-top: 2%;
+    background-color: rgb(184, 170, 112);
 }
 .dad{
     width: 300px;
     height: 300px;
     border-radius: 50%;
     border: 7px solid rgb(163, 159, 159);
-    margin-left:30px; 
+    margin-left:20%; 
     margin-top: 20px;
+    
     
 }
 .help{
@@ -171,6 +185,7 @@ body, html{
     background-color: rgb(247, 247, 247);
     box-shadow: 5px 10px #888888;
     border: none;
+    font-size: 20px;
  }
  .baby{
     text-align: center;
@@ -188,16 +203,17 @@ body, html{
     padding-left: 40px;
  }
  .top{
-    margin-left: 31%;
+    
     margin-top: 50px;
  }
  #small{
-    font-size: 10px;
+    font-size: 15px;
     text-align: center;
-    margin-right: 200px;
+    margin-right: 0%;
  }
  .zay{
-    margin-left:50px;
+    margin-left:35%;
+    font-size: 50px;
  }
  .dally{
     margin-top: 25px;
@@ -237,4 +253,9 @@ body, html{
     color: burlywood;
     background-color: bisque;
     border: none;
+    font-size: 20px;
+ }
+ .input{
+    margin-left: 100px;
+    font-size: 20px;
  }
